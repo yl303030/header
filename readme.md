@@ -1,5 +1,2 @@
-blablabla
-blablabla
-blablabla
-blablabla
-blablabla
+searchBar-iconText-icon
+![alt text](searchBar-iconText-icon/public/img/Screenshot.png)
